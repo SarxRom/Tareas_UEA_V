@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(215, 166, 228);
+    background-color: #643870;
 }
 
 h1{
-    color: rgb(95, 93, 223);
+    color: #aaaadb;
     font-family: 'Times new roman';
     text-align: center;
     font-size: 78px;
@@ -11,7 +11,7 @@ h1{
 }
 
 h2{
-    color: rgb(185, 119, 182);
+    color: #ffffff;
     font-family: 'Times new roman';
     text-align: center;
     font-size: 65px;
@@ -19,7 +19,7 @@ h2{
 }
 
 p{
-    color: rgb(194, 100, 100);
+    color: #efefef;
     font-size: 37px;
     text-align: center;
     line-height: 1.5;
@@ -28,6 +28,6 @@ p{
 
 div{
     margin: 35px;
-    color: rgb(218, 135, 135);
+    color: #a497f2;
     font-family: 'Times new roman';
 }
