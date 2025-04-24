@@ -1,1 +1,1 @@
-console.log("Lo hermoso de mi vida");
+console.log("Las estrellas no siempre estan en el cielo");
